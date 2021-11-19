@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-17T15:57:35.953970500Z</date>
+  <millis>1637164655953</millis>
+  <nanos>970500</nanos>
+  <sequence>0</sequence>
+  <logger>JavaSamples12.HelloWorld</logger>
+  <level>INFO</level>
+  <class>JavaSamples12.HelloWorld</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition =11</message>
+</record>
+<record>
+  <date>2021-11-17T15:57:36.041735600Z</date>
+  <millis>1637164656041</millis>
+  <nanos>735600</nanos>
+  <sequence>1</sequence>
+  <logger>JavaSamples12.HelloWorld</logger>
+  <level>WARNING</level>
+  <class>JavaSamples12.HelloWorld</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition =11</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-17T15:59:51.090999600Z</date>
+  <millis>1637164791090</millis>
+  <nanos>999600</nanos>
+  <sequence>0</sequence>
+  <logger>JavaSamples12.HelloWorld</logger>
+  <level>INFO</level>
+  <class>JavaSamples12.HelloWorld</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition =11</message>
+</record>
+<record>
+  <date>2021-11-17T15:59:51.144854600Z</date>
+  <millis>1637164791144</millis>
+  <nanos>854600</nanos>
+  <sequence>1</sequence>
+  <logger>JavaSamples12.HelloWorld</logger>
+  <level>WARNING</level>
+  <class>JavaSamples12.HelloWorld</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition =11</message>
+</record>
+<record>
+  <date>2021-11-17T15:59:51.144854600Z</date>
+  <millis>1637164791144</millis>
+  <nanos>854600</nanos>
+  <sequence>2</sequence>
+  <logger>JavaSamples12.HelloWorld</logger>
+  <level>INFO</level>
+  <class>JavaSamples12.HelloWorld</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello WorldThis Will Be Printed On Info</message>
+</record>
+<record>
+  <date>2021-11-17T15:59:51.145853Z</date>
+  <millis>1637164791145</millis>
+  <nanos>853000</nanos>
+  <sequence>3</sequence>
+  <logger>JavaSamples12.HelloWorld</logger>
+  <level>WARNING</level>
+  <class>JavaSamples12.HelloWorld</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello WorldThis Will Be Printed On Warn</message>
+</record>
+<record>
+  <date>2021-11-17T15:59:51.145853Z</date>
+  <millis>1637164791145</millis>
+  <nanos>853000</nanos>
+  <sequence>4</sequence>
+  <logger>JavaSamples12.HelloWorld</logger>
+  <level>INFO</level>
+  <class>JavaSamples12.HelloWorld</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Appending string: {}.Hello World</message>
+</record>
+</log>
